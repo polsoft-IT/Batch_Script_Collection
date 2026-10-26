@@ -344,7 +344,3 @@ Directory: `./USB%20Write%20Protection/`
 | WSL/Terminal/Multimedia installers | 8 |
 | All other categories | 64 |
 | **TOTAL** | **135+** |
-
----
-
-## ℹ️ All scripts are created and maintained by Sebastian Januchowski. Project available under MIT license.
