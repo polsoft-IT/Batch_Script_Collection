@@ -124,15 +124,15 @@ if exist "%targetDir%\!currentFile!" (
 
 :about
 cls
-echo %blue%===================================%reset%
-echo           ABOUT AUTHOR
-echo %blue%===================================%reset%
+echo %blue%=====================================%reset%
+echo            ABOUT AUTHOR
+echo %blue%=====================================%reset%
 echo.
 echo %green%Author:%reset% Sebastian Januchowski
-echo %green%Email:%reset%  polsoft.its@fastservice.com
-echo %green%GitHub:%reset% https://github.com/seb07uk
+echo %green%Email:%reset%  polsoft.its@mail.com
+echo %green%GitHub:%reset% https://github.com/polsoft-it
 echo.
-echo %blue%===================================%reset%
+echo %blue%=====================================%reset%
 echo.
 echo Press any key to return to menu...
 pause >nul
